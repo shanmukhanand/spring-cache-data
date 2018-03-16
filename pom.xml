@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>spring-cache-data</name>
-	<description>Demo project for Spring Boot123456</description>
+	<description>Demo project for Spring Boot</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -25,16 +25,7 @@
 	</properties>
 
 	<dependencies>
-	<dependency>
-    <groupId>org.hibernate</groupId>
-    <artifactId>hibernate-core</artifactId>
-    <version>4.1.4.Final</version>
-</dependency>
-<dependency>
-    <groupId>org.hibernate</groupId>
-    <artifactId>hibernate-entitymanager</artifactId>
-    <version>5.2.3.Final</version>
-</dependency>
+
 		<dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-jpa</artifactId>
