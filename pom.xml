@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>spring-cache-data</name>
-	<description>Spring Boot Cache Project</description>
+	<description>Spring Boot Cache Project123</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
