@@ -5,7 +5,7 @@
 
 	<groupId>com.gsit</groupId>
 	<artifactId>spring-cache-data</artifactId>
-	<version>{BUILD_NUMBER}</version>
+	<version>${BUILD_NUMBER}</version>
 	<packaging>war</packaging>
 
 	<name>spring-cache-data</name>
